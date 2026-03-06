@@ -13,9 +13,9 @@
 - 🔑 Flexible API Key — Provide via .env file or directly in the sidebar
 
 🛠️ Tech Stack:
-Layer             |      Technology
-Frontend          |      Streamlit
-LLMOrchestration  |      LangChain
-LLMProviderGroq   |      Cloud API
-MemoryLangChain   |      InMemoryChatMessageHistory
-Environment       |      Python-dotenv
+- Layer              |      Technology
+- >Frontend          |      Streamlit
+- >LLMOrchestration  |      LangChain
+- >LLMProviderGroq   |      Cloud API
+- >MemoryLangChain   |      InMemoryChatMessageHistory
+- >Environment       |      Python-dotenv
